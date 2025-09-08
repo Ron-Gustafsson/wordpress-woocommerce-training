@@ -2,7 +2,8 @@
 
 ## 📖 Introduction
 
-This project was part of my studies, and the goal was to learn how to use **WordPress** and **WooCommerce**. I built a few test sites to practice the basics of e-commerce and to get familiar with the tools commonly used in website and online store development.
+This project was part of my studies, and the goal was to learn how to use **WordPress** and **WooCommerce**. I built several test sites to practice the basics of e-commerce and to get familiar with the tools commonly used in website and online store development. I could have kept refining the sites endlessly, but I also need to move forward with my studies.
+(*Some of these sites are connected to my own business ideas, so I cannot share further details about them here.*)
 
 I also have a personal interest in **developing streaming services**, and I’ve always tried to hit two birds with one stone in my studies – that’s why the theme of my online store was selling movies. I’ve been passionate about films and TV series for decades, and one of my future dreams is to help build **streaming applications** that are attractive to viewers, user-friendly, and stand out in a highly competitive market. I already have plenty of ideas and innovations in mind…
 
