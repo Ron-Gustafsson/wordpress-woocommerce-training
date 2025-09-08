@@ -1,37 +1,37 @@
 # 🎓 WordPress & WooCommerce Training
 
-## 📖 Pohjustus
+## 📖 Introduction
 
-Tämä harjoitus kuului opintoihini ja tarkoituksena oli opetella **WordPressin** ja **WooCommercen** käyttöä. Rakensin muutaman testisivuston, joissa harjoittelin verkkokaupan perusratkaisuja sekä tutustuin työkaluihin, joita verkkosivujen ja -kauppojen kehittäjät käyttävät.
+This project was part of my studies, and the goal was to learn how to use **WordPress** and **WooCommerce**. I built a few test sites to practice the basics of e-commerce and to get familiar with the tools commonly used in website and online store development.
 
-Minulla on myös henkilökohtainen kiinnostus **streamaus-palveluiden kehittämiseen**, ja olen pyrkinyt opinnoissani aina lyömään kaksi kärpästä yhdellä iskulla – siksi verkkokauppani teema liittyi elokuvien myyntiin. Olen harrastanut elokuvia ja sarjoja vuosikymmeniä, ja yksi tulevaisuuden haaveistani on päästä rakentamaan **streamaus-sovelluksia**, joista tehdään houkuttelevia katsojille, käyttäjäystävällisiä ja kilpailulla alalla erottuvia. Siihen minulta löytyykin paljon innovaatioita…
-
----
-
-## 🎯 Tavoite
-
-- Ymmärtää WordPressin perusteet sisällönhallintajärjestelmänä.  
-- Ottaa käyttöön WooCommerce ja rakentaa toimiva verkkokauppa.  
-- Harjoitella teemojen ja lisäosien käyttöä ja muokkaamista.  
-- Kehittää ymmärrystä verkkosivujen optimoinnista, käytettävyydestä ja hakukonenäkyvyydestä.  
+I also have a personal interest in **developing streaming services**, and I’ve always tried to hit two birds with one stone in my studies – that’s why the theme of my online store was selling movies. I’ve been passionate about films and TV series for decades, and one of my future dreams is to help build **streaming applications** that are attractive to viewers, user-friendly, and stand out in a highly competitive market. I already have plenty of ideas and innovations in mind…
 
 ---
 
-## ❓ Miksi WP & WC?
+## 🎯 Goals
 
-**WordPress** on maailman suosituin sisällönhallintajärjestelmä ja sen avulla voi luoda lähes minkä tahansa sivuston. **WooCommerce** laajentaa WordPressin verkkokaupaksi ja tarjoaa laajat mahdollisuudet tuotteiden hallintaan, maksuihin ja toimituksiin. Yhdistelmä on erinomainen tapa oppia verkkosivujen ja -kauppojen rakentamista, sillä ne ovat sekä laajasti käytettyjä että hyvin dokumentoituja.
+- Understand the basics of WordPress as a content management system.  
+- Install and set up WooCommerce to build a functional online store.  
+- Practice using and customizing themes and plugins.  
+- Develop an understanding of website optimization, usability, and search engine visibility.  
 
 ---
 
-## 🛠️ Miten tein
+## ❓ Why WP & WC?
 
-- **LocalWP**: Kehitysympäristön pystytys ja sivustojen käynnistäminen.  
-- **WordPress (WP)**: Perusasennus, asetusten viimeistely ja sivuston rakenteen luominen.  
-- **WooCommerce (WC)**: Lisäosan asennus, asetusten viimeistely, verkkokaupan ja tuotteiden lisääminen.  
-- **Blocksy**: Todella suosittu ja muokattava teema, jonka avulla sivustosta sai modernin näköisen.  
-- **Elementor**: Sivunrakennustyökalu, jolla lohkot ja sivut saatiin näyttävämmiksi.  
-- **All-in-One WP Migration and Backup**: Työkalu sivuston varmuuskopiointiin ja siirtoon.  
-- **Yoast SEO**: Hakukoneoptimointilisäosa, jolla harjoiteltiin perus-SEO-asetuksia.  
+**WordPress** is the world’s most popular content management system, capable of creating almost any type of website. **WooCommerce** extends WordPress into a full-featured online store and provides extensive options for product management, payments, and deliveries. Together, they form an excellent way to learn website and e-commerce development, as both are widely used and well-documented.  
+
+---
+
+## 🛠️ How I Did It
+
+- **LocalWP**: Set up the development environment and launched the sites.  
+- **WordPress (WP)**: Basic installation, configuration, and building the site structure.  
+- **WooCommerce (WC)**: Installed the plugin, configured the settings, and added the store with products.  
+- **Blocksy**: A very popular and customizable theme that made the site look modern.  
+- **Elementor**: A page builder used to create more visually appealing blocks and pages.  
+- **All-in-One WP Migration and Backup**: A tool for backing up and transferring the site.  
+- **Yoast SEO**: A plugin for practicing the basics of search engine optimization.   
 
 ---
 
