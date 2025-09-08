@@ -1,40 +1,39 @@
-### 🎓 WordPress & WooCommerce Training
+# 🎓 WordPress & WooCommerce Training
 
-### 📖 Pohjustus
+## 📖 Pohjustus
 
-Tämä harjoitus kuului opintoihini ja tarkoituksena oli opetella WordPressin ja WooCommercen käyttöä. Rakensin muutaman testisivuston, joissa harjoittelin verkkokaupan perusratkaisuja sekä tutustuin työkaluihin, joita verkkosivujen ja -kauppojen kehittäjät käyttävät.
+Tämä harjoitus kuului opintoihini ja tarkoituksena oli opetella **WordPressin** ja **WooCommercen** käyttöä. Rakensin muutaman testisivuston, joissa harjoittelin verkkokaupan perusratkaisuja sekä tutustuin työkaluihin, joita verkkosivujen ja -kauppojen kehittäjät käyttävät.
 
-Minulla on myös henkilökohtainen kiinnostus streamaus-palveluiden kehittämiseen, ja olen pyrkinyt opinnoissani aina lyömään kaksi kärpästä yhdellä iskulla – siksi verkkokauppani teema liittyi elokuvien myyntiin. Olen harrastanut elokuvia ja sarjoja vuosikymmeniä, ja yksi tulevaisuuden haaveistani on päästä rakentamaan streamaus-sovelluksia, joista tehdään houkuttelevia katsojille, käyttäjäystävällisiä ja kilpailulla alalla erottuvia. Siihen minulta löytyykin paljon innovaatioita…
+Minulla on myös henkilökohtainen kiinnostus **streamaus-palveluiden kehittämiseen**, ja olen pyrkinyt opinnoissani aina lyömään kaksi kärpästä yhdellä iskulla – siksi verkkokauppani teema liittyi elokuvien myyntiin. Olen harrastanut elokuvia ja sarjoja vuosikymmeniä, ja yksi tulevaisuuden haaveistani on päästä rakentamaan **streamaus-sovelluksia**, joista tehdään houkuttelevia katsojille, käyttäjäystävällisiä ja kilpailulla alalla erottuvia. Siihen minulta löytyykin paljon innovaatioita…
 
-### 🎯 Tavoite
+---
 
-- Ymmärtää WordPressin perusteet sisällönhallintajärjestelmänä.
+## 🎯 Tavoite
 
-- Ottaa käyttöön WooCommerce ja rakentaa toimiva verkkokauppa.
+- Ymmärtää WordPressin perusteet sisällönhallintajärjestelmänä.  
+- Ottaa käyttöön WooCommerce ja rakentaa toimiva verkkokauppa.  
+- Harjoitella teemojen ja lisäosien käyttöä ja muokkaamista.  
+- Kehittää ymmärrystä verkkosivujen optimoinnista, käytettävyydestä ja hakukonenäkyvyydestä.  
 
-- Harjoitella teemojen ja lisäosien käyttöä ja muokkaamista.
+---
 
-- Kehittää ymmärrystä verkkosivujen optimoinnista, käytettävyydestä ja hakukonenäkyvyydestä.
+## ❓ Miksi WP & WC?
 
-### ❓ Miksi WP & WC?
+**WordPress** on maailman suosituin sisällönhallintajärjestelmä ja sen avulla voi luoda lähes minkä tahansa sivuston. **WooCommerce** laajentaa WordPressin verkkokaupaksi ja tarjoaa laajat mahdollisuudet tuotteiden hallintaan, maksuihin ja toimituksiin. Yhdistelmä on erinomainen tapa oppia verkkosivujen ja -kauppojen rakentamista, sillä ne ovat sekä laajasti käytettyjä että hyvin dokumentoituja.
 
-WordPress on maailman suosituin sisällönhallintajärjestelmä ja sen avulla voi luoda lähes minkä tahansa sivuston. WooCommerce laajentaa WordPressin verkkokaupaksi ja tarjoaa laajat mahdollisuudet tuotteiden hallintaan, maksuihin ja toimituksiin. Näiden kahden yhdistelmä on erinomainen tapa oppia verkkosivujen ja -kauppojen rakentamista, sillä ne ovat sekä laajasti käytettyjä että hyvin dokumentoituja.
+---
 
-### 🛠️ Miten tein
+## 🛠️ Miten tein
 
-- Local: Kehitysympäristön pystytys LocalWP-ohjelmalla ja sivustojen käynnistäminen.
+- **LocalWP**: Kehitysympäristön pystytys ja sivustojen käynnistäminen.  
+- **WordPress (WP)**: Perusasennus, asetusten viimeistely ja sivuston rakenteen luominen.  
+- **WooCommerce (WC)**: Lisäosan asennus, asetusten viimeistely, verkkokaupan ja tuotteiden lisääminen.  
+- **Blocksy**: Todella suosittu ja muokattava teema, jonka avulla sivustosta sai modernin näköisen.  
+- **Elementor**: Sivunrakennustyökalu, jolla lohkot ja sivut saatiin näyttävämmiksi.  
+- **All-in-One WP Migration and Backup**: Työkalu sivuston varmuuskopiointiin ja siirtoon.  
+- **Yoast SEO**: Hakukoneoptimointilisäosa, jolla harjoiteltiin perus-SEO-asetuksia.  
 
-- WordPress (WP): Perusasennus, asetusten viimeistely ja sivuston rakenteen luominen.
-
-- WooCommerce (WC): Lisäosan asennus, asetusten viimeistely, verkkokaupan ja tuotteiden lisääminen.
-
-- Blocksy: Todella suosittu ja muokattava teema, jonka avulla sivustosta sai modernin näköisen.
-
-- Elementor: Sivunrakennustyökalu, jolla lohkot ja sivut saatiin näyttävämmiksi.
-
-- All-in-One WP Migration and Backup: Työkalu sivuston varmuuskopiointiin ja siirtoon.
-
-- Yoast SEO: Hakukoneoptimointilisäosa, jolla harjoiteltiin perus-SEO-asetuksia.
+---
 
 🖼️ Two images per row for better viewing experience in mobile.  
 
@@ -116,7 +115,6 @@ WordPress on maailman suosituin sisällönhallintajärjestelmä ja sen avulla vo
       <a href="The Batman Part 2.png">🔍 View full size</a>
     </td>
   </tr>
-  
 </table>
 
 🔙 [Back to Profile](https://github.com/Ron-Gustafsson)
