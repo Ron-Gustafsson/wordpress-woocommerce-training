@@ -18,7 +18,7 @@ I also have a personal interest in **developing streaming services**, and I’ve
 
 ---
 
-## ❓ Why WP & WC?
+## ❓ Why WP & WooCommerce?
 
 **WordPress** is the world’s most popular content management system, capable of creating almost any type of website. **WooCommerce** extends WordPress into a full-featured online store and provides extensive options for product management, payments, and deliveries. Together, they form an excellent way to learn website and e-commerce development, as both are widely used and well-documented.  
 
@@ -28,8 +28,8 @@ I also have a personal interest in **developing streaming services**, and I’ve
 
 - **LocalWP**: Set up the development environment and launched the sites.  
 - **WordPress (WP)**: Basic installation, configuration, and building the site structure.  
-- **WooCommerce (WC)**: Installed the plugin, configured the settings, and added the store with products.  
-- **Blocksy**: A popular and flexible base theme, which I customized by building the site structure, layout, and color palette by hand. 
+- **WooCommerce**: Installed the plugin, configured the settings, and added the store with products.  
+- **Blocksy**: A popular and flexible base theme, which I customized by building the site structure, layout, and color palette all by hand. 
 - **Elementor**: A page builder used to create more visually appealing blocks and pages.  
 - **All-in-One WP Migration and Backup**: A tool for backing up and transferring the site.  
 - **Yoast SEO**: A plugin for practicing the basics of search engine optimization.   
