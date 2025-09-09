@@ -29,7 +29,7 @@ I also have a personal interest in **developing streaming services**, and I’ve
 - **LocalWP**: Set up the development environment and launched the sites.  
 - **WordPress (WP)**: Basic installation, configuration, and building the site structure.  
 - **WooCommerce (WC)**: Installed the plugin, configured the settings, and added the store with products.  
-- **Blocksy**: A very popular and customizable theme that made the site look modern.  
+- **Blocksy**: A popular and flexible base theme, which I customized by building the site structure, layout, and color palette by hand. 
 - **Elementor**: A page builder used to create more visually appealing blocks and pages.  
 - **All-in-One WP Migration and Backup**: A tool for backing up and transferring the site.  
 - **Yoast SEO**: A plugin for practicing the basics of search engine optimization.   
